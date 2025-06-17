@@ -116,8 +116,7 @@ This frontend is designed to work with a Laravel backend that provides:
 **Delete Response**:
 ```json
 {
-  "success": true,
-  "message": "File deleted successfully"
+  "success": true
 }
 ```
 

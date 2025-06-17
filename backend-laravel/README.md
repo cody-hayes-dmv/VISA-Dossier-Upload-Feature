@@ -176,5 +176,5 @@ backend-laravel/
 
 ---
 
-For the corresponding React frontend, refer to the [`frontend-react`](https://github.com/your-org/frontend-react) repository.
+For the corresponding React frontend, refer to the [`frontend-react`](https://github.com/cody-hayes-dmv/VISA-Dossier-Upload-Feature/tree/main/frontend-react) repository.
 
