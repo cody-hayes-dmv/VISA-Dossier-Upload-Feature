@@ -15,8 +15,8 @@ A full-stack application for uploading and managing VISA documents, built with *
 
 ## 🧱 Tech Stack
 
-- **Frontend**: React, Vite, Tailwind CSS, Lucide Icons, XMLHttpRequest, Fetch API
-- **Backend**: Laravel 12.x, MySQL, Eloquent ORM, Laravel Storage, CORS
+- **Frontend**: React 18.3.1, Vite, Tailwind CSS, Lucide Icons, XMLHttpRequest, Fetch API
+- **Backend**: PHP 8.2.28, Laravel 12.18.0, MySQL, Eloquent ORM, Laravel Storage, CORS
 
 ## 📁 Project Structure
 
