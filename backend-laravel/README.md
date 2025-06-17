@@ -46,10 +46,8 @@ backend-laravel/
 
 ## Setup Instructions
 
-1. **Clone and install dependencies**:
+1. **Install dependencies**:
    ```bash
-   git clone https://github.com/your-org/backend-laravel.git
-   cd backend-laravel
    composer install
    ```
 
